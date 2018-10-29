@@ -19,7 +19,7 @@ SIerで要件定義やシステム設計を経験後、UI/UXを強みを持つWe
 
 |言語/フレームワーク|備考|
 |-----|------------|
-|JavaScript|最も得意な言語。ES6を含め実務経験あり。|
+|JavaScript|最も得意な言語。ES6を含め実務経験豊富。|
 |JavaScript(Vue)|Vue Router/Vuex含め大規模開発における設計/開発を経験。|
 |JavaScript(Nuxt)|基本的なルールは理解しており、社内ブログ開発時に使用した。|
 |JavaScript(React)|Reduxを含め趣味と実務で少々。少しのキャッチアップで開発に参画できる。|
