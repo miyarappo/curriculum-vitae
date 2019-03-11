@@ -57,5 +57,6 @@ SIerで要件定義やシステム設計を経験後、UI/UXを強みを持つWe
   - Photoshop、Sketch、Zeplin、inVision
 
 ## やったことはないが興味があるもの
+- Atomic Design等を使ったデザインシステムの構築
 - アジャイルな組織でのバックエンドの開発
 - AWSやGCPのインフラの構築
